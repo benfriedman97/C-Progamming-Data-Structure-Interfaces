@@ -1,0 +1,16 @@
+stack_index_items: used for an "index items" stack with no duplicates, ignore-the-new item policy. 
+This is a stack of positiveintegers and it keeps track of what's stored in the stack using an 
+additional array in the stack ADT where each item in the stack also acts as an index in that array. 
+For example, if the number 43 is added, it goes to the 43rd indexand checks if there is a 0 or 1 
+stored there. If there is a 1, it ignores the current push operation so it doesn't store a duplicate. 
+If there's a 0, it's added to the stack
+
+stack_index_items_2: same as above, except it uses a forget-the-old policy so it
+uses a doubly linked list for the stack and pointers to nodes for the array to check if it's present
+instead of 0 or 1.
+
+stack_array: uses an array for a stack, no duplicates, uses either ignore-new-item policy
+or forget-the-old
+
+stack_linked_list: uses a singly linked list for the stack, no duplicates, uses either ignore-the-new
+item policy or forget-the-old
