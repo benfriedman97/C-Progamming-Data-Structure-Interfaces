@@ -17,7 +17,7 @@ MY_STRING my_string_init_default(void)
   /*Initialize string object with enough space to store 7 characters*/
   if (pString != NULL) {
     pString->size = 0;
-    pString->capacity = 7;
+    pString->capacity = INIT_STRING_CAPACITY;
     pString->data = (char*)malloc(sizeof(char) * pString->capacity);
     if (pString->data == NULL) {
       free(pString);
@@ -115,7 +115,7 @@ int my_string_compare(MY_STRING hLeft_string, MY_STRING hRight_string)
     return *pLstring < *pRstring ? -1 : 1;
 }
 
-/*Better version I didn't use in lab
+/*Better version
 int my_string_compare(char* s1, char* s2)
 {
 	int s1Size = strlen(s1);
@@ -158,7 +158,7 @@ Status my_string_extraction(MY_STRING hMy_string, FILE *fp)
 	//there is not enough space to store another character
 	else {
 	    //copy the current string into a temporary string
-	    char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * 2);
+	    char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * RESIZE);
 	    if (temp == NULL)
 		return FAILURE;
 	    for (int i = 0; i < count; i++)
@@ -202,7 +202,7 @@ Status my_string_push_back(MY_STRING hMy_string, char item)
 
     /*If no space is left in the string, make a copy array double the size*/
     if (pMy_string->size >= pMy_string->capacity) {
-     char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * 2); 
+     char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * RESIZE); 
       if (temp == NULL)
 	return FAILURE;
       for (int i = 0; i < pMy_string->size; i++)
@@ -246,7 +246,7 @@ char* my_string_c_str(MY_STRING hMy_string)
   
   /*If no space is left in the string, make a copy array double the size*/
     if (pMy_string->size >= pMy_string->capacity) {
-      char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * 2); 
+      char *temp = (char*)malloc(sizeof(char) * pMy_string->capacity * RESIZE); 
       if (temp == NULL)
 	return FAILURE;
       for (int i = 0; i < pMy_string->size; i++)
