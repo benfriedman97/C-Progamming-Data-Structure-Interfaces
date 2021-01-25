@@ -31,7 +31,7 @@ Status ht_insert(HASH_TABLE hTable, char* key, int data) {
 	return list_head_insert(&(ht->hash_table[index]), key, data);
 }
 
-void ht_update_elemment(HASH_TABLE hTable, char* key, unsigned index, int data) {
+void ht_update_element(HASH_TABLE hTable, char* key, unsigned index, int data) {
 	Hash_table* ht = (Hash_table*)hTable;
 	NODE nodeToUpdate = NULL;
 	list_key_exists(ht->hash_table[index], key, &nodeToUpdate, NULL);
