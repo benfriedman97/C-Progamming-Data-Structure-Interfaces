@@ -6,4 +6,6 @@ function to see if a key already exists, and then calling ht_update_element to u
 inserting a new entry with the same key.
 
 The main.c is a sample program where all possible keys of size 2 are inserted in the hash table. The example_output.txt file then
-shows the contents of the hash table by displaying the contents of each linked list
+shows the contents of the hash table by displaying the contents of each linked list in the hash table. The index of the linked list
+and a head to tail traversal is printed going from left-to-right, top-to-bottom. The hash table was arbitrarily initialized to be of
+size 100 in order to display both indexes with both active linked lists and empty linked lists aka NULL pointers.
