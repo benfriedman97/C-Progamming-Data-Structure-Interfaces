@@ -1,0 +1,145 @@
+Visual Leak Detector read settings from: C:\Program Files (x86)\Visual Leak Detector\vld.ini
+Visual Leak Detector Version 2.5.1 installed.
+Index: 0    ZZ 51          ZP 41          ZF 31          YQ 41          YG 31
+            XR 41          XH 31          WS 41          WI 31          VT 41
+            VJ 31          UU 41          UK 31          UA 21          TV 41
+            TL 31          TB 21          SW 41          SM 31          SC 21
+            RX 41          RN 31          RD 21          QY 41          QO 31
+            QE 21          PZ 41          PP 31          PF 21          OQ 31
+            OG 21          NR 31          NH 21          MS 31          MI 21
+            LT 31          LJ 21          KU 31          KK 21          KA 11
+            JV 31          JL 21          JB 11          IW 31          IM 21
+            IC 11          HX 31          HN 21          HD 11          GY 31
+            GO 21          GE 11          FZ 31          FP 21          FF 11
+            EQ 21          EG 11          DR 21          DH 11          CS 21
+            CI 11          BT 21          BJ 11          AU 21          AK 11
+            AA 1
+Index: 1    ZQ 42          ZG 32          YR 42          YH 32          XS 42
+            XI 32          WT 42          WJ 32          VU 42          VK 32
+            VA 22          UV 42          UL 32          UB 22          TW 42
+            TM 32          TC 22          SX 42          SN 32          SD 22
+            RY 42          RO 32          RE 22          QZ 42          QP 32
+            QF 22          PQ 32          PG 22          OR 32          OH 22
+            NS 32          NI 22          MT 32          MJ 22          LU 32
+            LK 22          LA 12          KV 32          KL 22          KB 12
+            JW 32          JM 22          JC 12          IX 32          IN 22
+            ID 12          HY 32          HO 22          HE 12          GZ 32
+            GP 22          GF 12          FQ 22          FG 12          ER 22
+            EH 12          DS 22          DI 12          CT 22          CJ 12
+            BU 22          BK 12          BA 2           AV 22          AL 12
+            AB 2
+Index: 2    ZR 43          ZH 33          YS 43          YI 33          XT 43
+            XJ 33          WU 43          WK 33          WA 23          VV 43
+            VL 33          VB 23          UW 43          UM 33          UC 23
+            TX 43          TN 33          TD 23          SY 43          SO 33
+            SE 23          RZ 43          RP 33          RF 23          QQ 33
+            QG 23          PR 33          PH 23          OS 33          OI 23
+            NT 33          NJ 23          MU 33          MK 23          MA 13
+            LV 33          LL 23          LB 13          KW 33          KM 23
+            KC 13          JX 33          JN 23          JD 13          IY 33
+            IO 23          IE 13          HZ 33          HP 23          HF 13
+            GQ 23          GG 13          FR 23          FH 13          ES 23
+            EI 13          DT 23          DJ 13          CU 23          CK 13
+            CA 3           BV 23          BL 13          BB 3           AW 23
+            AM 13          AC 3
+Index: 3    ZS 44          ZI 34          YT 44          YJ 34          XU 44
+            XK 34          XA 24          WV 44          WL 34          WB 24
+            VW 44          VM 34          VC 24          UX 44          UN 34
+            UD 24          TY 44          TO 34          TE 24          SZ 44
+            SP 34          SF 24          RQ 34          RG 24          QR 34
+            QH 24          PS 34          PI 24          OT 34          OJ 24
+            NU 34          NK 24          NA 14          MV 34          ML 24
+            MB 14          LW 34          LM 24          LC 14          KX 34
+            KN 24          KD 14          JY 34          JO 24          JE 14
+            IZ 34          IP 24          IF 14          HQ 24          HG 14
+            GR 24          GH 14          FS 24          FI 14          ET 24
+            EJ 14          DU 24          DK 14          DA 4           CV 24
+            CL 14          CB 4           BW 24          BM 14          BC 4
+            AX 24          AN 14          AD 4
+Index: 4    ZT 45          ZJ 35          YU 45          YK 35          YA 25
+            XV 45          XL 35          XB 25          WW 45          WM 35
+            WC 25          VX 45          VN 35          VD 25          UY 45
+            UO 35          UE 25          TZ 45          TP 35          TF 25
+            SQ 35          SG 25          RR 35          RH 25          QS 35
+            QI 25          PT 35          PJ 25          OU 35          OK 25
+            OA 15          NV 35          NL 25          NB 15          MW 35
+            MM 25          MC 15          LX 35          LN 25          LD 15
+            KY 35          KO 25          KE 15          JZ 35          JP 25
+            JF 15          IQ 25          IG 15          HR 25          HH 15
+            GS 25          GI 15          FT 25          FJ 15          EU 25
+            EK 15          EA 5           DV 25          DL 15          DB 5
+            CW 25          CM 15          CC 5           BX 25          BN 15
+            BD 5           AY 25          AO 15          AE 5
+Index: 5    ZU 46          ZK 36          ZA 26          YV 46          YL 36
+            YB 26          XW 46          XM 36          XC 26          WX 46
+            WN 36          WD 26          VY 46          VO 36          VE 26
+            UZ 46          UP 36          UF 26          TQ 36          TG 26
+            SR 36          SH 26          RS 36          RI 26          QT 36
+            QJ 26          PU 36          PK 26          PA 16          OV 36
+            OL 26          OB 16          NW 36          NM 26          NC 16
+            MX 36          MN 26          MD 16          LY 36          LO 26
+            LE 16          KZ 36          KP 26          KF 16          JQ 26
+            JG 16          IR 26          IH 16          HS 26          HI 16
+            GT 26          GJ 16          FU 26          FK 16          FA 6
+            EV 26          EL 16          EB 6           DW 26          DM 16
+            DC 6           CX 26          CN 16          CD 6           BY 26
+            BO 16          BE 6           AZ 26          AP 16          AF 6
+
+Index: 6    ZV 47          ZL 37          ZB 27          YW 47          YM 37
+            YC 27          XX 47          XN 37          XD 27          WY 47
+            WO 37          WE 27          VZ 47          VP 37          VF 27
+            UQ 37          UG 27          TR 37          TH 27          SS 37
+            SI 27          RT 37          RJ 27          QU 37          QK 27
+            QA 17          PV 37          PL 27          PB 17          OW 37
+            OM 27          OC 17          NX 37          NN 27          ND 17
+            MY 37          MO 27          ME 17          LZ 37          LP 27
+            LF 17          KQ 27          KG 17          JR 27          JH 17
+            IS 27          II 17          HT 27          HJ 17          GU 27
+            GK 17          GA 7           FV 27          FL 17          FB 7
+            EW 27          EM 17          EC 7           DX 27          DN 17
+            DD 7           CY 27          CO 17          CE 7           BZ 27
+            BP 17          BF 7           AQ 17          AG 7
+Index: 7    ZW 48          ZM 38          ZC 28          YX 48          YN 38
+            YD 28          XY 48          XO 38          XE 28          WZ 48
+            WP 38          WF 28          VQ 38          VG 28          UR 38
+            UH 28          TS 38          TI 28          ST 38          SJ 28
+            RU 38          RK 28          RA 18          QV 38          QL 28
+            QB 18          PW 38          PM 28          PC 18          OX 38
+            ON 28          OD 18          NY 38          NO 28          NE 18
+            MZ 38          MP 28          MF 18          LQ 28          LG 18
+            KR 28          KH 18          JS 28          JI 18          IT 28
+            IJ 18          HU 28          HK 18          HA 8           GV 28
+            GL 18          GB 8           FW 28          FM 18          FC 8
+            EX 28          EN 18          ED 8           DY 28          DO 18
+            DE 8           CZ 28          CP 18          CF 8           BQ 18
+            BG 8           AR 18          AH 8
+Index: 8    ZX 49          ZN 39          ZD 29          YY 49          YO 39
+            YE 29          XZ 49          XP 39          XF 29          WQ 39
+            WG 29          VR 39          VH 29          US 39          UI 29
+            TT 39          TJ 29          SU 39          SK 29          SA 19
+            RV 39          RL 29          RB 19          QW 39          QM 29
+            QC 19          PX 39          PN 29          PD 19          OY 39
+            OO 29          OE 19          NZ 39          NP 29          NF 19
+            MQ 29          MG 19          LR 29          LH 19          KS 29
+            KI 19          JT 29          JJ 19          IU 29          IK 19
+            IA 9           HV 29          HL 19          HB 9           GW 29
+            GM 19          GC 9           FX 29          FN 19          FD 9
+            EY 29          EO 19          EE 9           DZ 29          DP 19
+            DF 9           CQ 19          CG 9           BR 19          BH 9
+            AS 19          AI 9
+Index: 9    ZY 50          ZO 40          ZE 30          YZ 50          YP 40
+            YF 30          XQ 40          XG 30          WR 40          WH 30
+            VS 40          VI 30          UT 40          UJ 30          TU 40
+            TK 30          TA 20          SV 40          SL 30          SB 20
+            RW 40          RM 30          RC 20          QX 40          QN 30
+            QD 20          PY 40          PO 30          PE 20          OZ 40
+            OP 30          OF 20          NQ 30          NG 20          MR 30
+            MH 20          LS 30          LI 20          KT 30          KJ 20
+            JU 30          JK 20          JA 10          IV 30          IL 20
+            IB 10          HW 30          HM 20          HC 10          GX 30
+            GN 20          GD 10          FY 30          FO 20          FE 10
+            EZ 30          EP 20          EF 10          DQ 20          DG 10
+            CR 20          CH 10          BS 20          BI 10          AT 20
+            AJ 10
+No memory leaks detected.
+Visual Leak Detector is now exiting.
