@@ -22,7 +22,7 @@ Status ht_insert(HASH_TABLE hTable, char* key, int data);
    Postcondition: the node with the key has had it's data updated. This function should be used
    in conjunction with ht_key_exists to first see if a key exists. If it does, you can call this
    to update the entry */
-void ht_update_elemment(HASH_TABLE hTable, char* key, unsigned index, int data);
+void ht_update_element(HASH_TABLE hTable, char* key, unsigned index, int data);
 
 /* Precondition: hTable is a handle to a hash table, key is the key to be looked for
    Postcondition: if the key exists, returns SUCCESS and removes the key-data pair.
