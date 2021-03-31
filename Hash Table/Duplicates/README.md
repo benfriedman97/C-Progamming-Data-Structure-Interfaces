@@ -1,5 +1,5 @@
 # Hash Table - Separate Chaining
-This folder implements a hash table for entries whose key-data pair is a string an integer. It implements the hash table using
+This folder implements a hash table for entries whose key-data pair is a string and integer. It implements the hash table using
 separate chaining with a doubly linked list. The size of the hash table is decided upon initialization. The "ht_insert" function
 to insert something in the hash table allows for duplicates. However, duplicates can also be ignored by using the ht_key_exists
 function to see if a key already exists, and then calling ht_update_element to update the already existing entry instead of
